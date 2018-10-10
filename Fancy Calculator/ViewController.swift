@@ -10,6 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var resultLabel: UILabel!
+    @IBAction func numberClicked(_ sender: UIButton) {
+        
+    }
+    @IBAction func operatorClicked(_ sender: UIButton) {
+        
+    }
+    @IBAction func equalsClicked(_ sender: UIButton) {
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
